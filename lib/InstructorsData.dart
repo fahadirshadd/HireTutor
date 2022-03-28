@@ -1,0 +1,65 @@
+const Instructors_Data = [
+  {
+    "name": "M.Fahad Irshad",
+    "brand": "BSCS",
+    "price": 2000,
+    "image": "image9.JPG",
+    "serviceVia": "Online | Academy | Home",
+  },
+  {
+    "name": "Elie Jhon",
+    "brand": "BS Mathematics",
+    "price": 1000,
+    "image": "image9.JPG",
+    "serviceVia": "Online | Academy | Home",
+  },
+  {
+    "name": "ALi Raza",
+    "brand": "BS Chemistry",
+    "price": 1000,
+    "image": "image9.JPG",
+    "serviceVia": "Online | Academy | Home",
+  },
+  {
+    "name": "Jhon",
+    "brand": "Biology",
+    "price": 1500,
+    "image": "image9.JPG",
+    "serviceVia": "Online | Academy | Home",
+  },
+  {
+    "name": "Jerry Tom",
+    "brand": "Physics",
+    "price": 1200,
+    "image": "image9.JPG",
+    "serviceVia": "Online | Academy | Home",
+  },
+  {
+    "name": "Khan Ali",
+    "brand": "BS Urdu",
+    "price": 900,
+    "image": "image9.JPG",
+    "serviceVia": "Online | Academy | Home",
+  },
+  {
+    "name": "Berry",
+    "brand": "BS English",
+    "price": 1700,
+    "image": "image9.JPG",
+    "serviceVia": "Online | Academy",
+  },
+  {
+    "name": "Kane",
+    "brand": "BS Chemistry",
+    "price": 2.99,
+    "image": "image9.JPG",
+    "serviceVia": "Online | Academy | Home",
+  },
+  {
+    "name": "Juliet Jane",
+    "brand": "Science",
+    "price": 550,
+    "image": "image9.JPG",
+    "serviceVia": "Online | Academy | Home",
+  }
+];

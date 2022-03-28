@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "305020882433",
+    "project_id": "hiretutor-65144",
+    "storage_bucket": "hiretutor-65144.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305020882433:android:7de79fa0ae7744483d3a00",
+        "android_client_info": {
+          "package_name": "com.example.hire_tutor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305020882433-pspsa5f6sjqheue832i9b8v431scimls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjq_kaSLZvgsHaD9waQxAOXNjpY0awYos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305020882433-pspsa5f6sjqheue832i9b8v431scimls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
